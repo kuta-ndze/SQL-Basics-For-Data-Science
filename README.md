@@ -4,4 +4,4 @@
 - Yelp has made a portion of this data available for personal, educational, and academic purposes.
   - `SQL` to perform query on Yelp dataset from remote server
   - `SQL` to both answer specific questions for an organization and make
-    inferences based on your discoveries.[`**sql querries**`](https://github.com/kuta-ndze/SQL-Basics-For-Data-Science/blob/main/Yelpdatasetquery.sql)
+    inferences based on your discoveries.[**`sql querries`**](https://github.com/kuta-ndze/SQL-Basics-For-Data-Science/blob/main/Yelpdatasetquery.sql)
