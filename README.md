@@ -7,3 +7,5 @@
   - Answer specific questions for an organization and make
     inferences based on your discoveries.  
     -[**`SQL queries`**](https://github.com/kuta-ndze/SQL-Basics-For-Data-Science/blob/main/Yelpdatasetquery.sql)
+
+### [**`SQL Data Mungling,Analysis and A/B Testing`**](https://www.coursera.org/learn/data-wrangling-analysis-abtesting/home/welcome)
