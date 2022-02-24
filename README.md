@@ -15,3 +15,5 @@
 - All datasets where clone to [**Mode analytics**](https://mode.com/) and SQL where querried on the platform.
   - Questions and querries are in the sql file extension below
     - [**`ABtestingSQL`**](https://github.com/kuta-ndze/SQL-Basics-For-Data-Science/blob/main/Final_Assignment_AB_Testing.sql)
+
+### [**`Distributed Computing with Spark SQL`**](https://www.coursera.org/learn/spark-sql/home/welcome)
