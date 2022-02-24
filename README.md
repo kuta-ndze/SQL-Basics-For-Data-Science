@@ -13,5 +13,5 @@
 
 - These final projects helps understand indepth of AB testing at an item-level, running an experiment for all users who visit a site will see the same page, but the layout of different item pages may differ.
 - All datasets where clone to [**Mode analytics**](https://mode.com/) and SQL where querried on the platform.
-- The questions and querries are in the sql file extension below
-  - [**`ABtestingSQL`**](https://github.com/kuta-ndze/SQL-Basics-For-Data-Science/blob/main/Final_Assignment_AB_Testing.sql)
+  - Questions and querries are in the sql file extension below
+    - [**`ABtestingSQL`**](https://github.com/kuta-ndze/SQL-Basics-For-Data-Science/blob/main/Final_Assignment_AB_Testing.sql)
