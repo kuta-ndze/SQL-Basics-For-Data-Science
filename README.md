@@ -17,3 +17,10 @@
     - [**`ABtestingSQL`**](https://github.com/kuta-ndze/SQL-Basics-For-Data-Science/blob/main/Final_Assignment_AB_Testing.sql)
 
 #### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Course 3` [**`Distributed Computing with Spark SQL`**](https://www.coursera.org/learn/spark-sql/home/welcome)
+
+- Module-1
+  - [**Queries in Spark**](https://github.com/kuta-ndze/SQL-Basics-For-Data-Science/blob/main/Distributed%20Computing%20with%20Spark/Module%20-%201.sql)
+- Module-2
+  - [**Spark Internals**](https://github.com/kuta-ndze/SQL-Basics-For-Data-Science/blob/main/Distributed%20Computing%20with%20Spark/Module%20-%202.sql)
+- Module-3
+  - [**Engineering Data Pipelines**](https://github.com/kuta-ndze/SQL-Basics-For-Data-Science/blob/main/Distributed%20Computing%20with%20Spark/Module%20-%203.sql)
