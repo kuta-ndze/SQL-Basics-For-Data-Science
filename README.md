@@ -34,3 +34,5 @@
   - [**Spark Internals**](https://github.com/kuta-ndze/SQL-Basics-For-Data-Science/blob/main/Distributed%20Computing%20with%20Spark/Module%20-%202.sql)
 - Module-3
   - [**Engineering Data Pipelines**](https://github.com/kuta-ndze/SQL-Basics-For-Data-Science/blob/main/Distributed%20Computing%20with%20Spark/Module%20-%203.sql)
+- Module-4
+  - [**Delta Lakes**](https://github.com/kuta-ndze/SQL-Basics-For-Data-Science/blob/main/Distributed%20Computing%20with%20Spark/Module%20-%204.sql)
