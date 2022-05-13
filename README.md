@@ -4,7 +4,7 @@
 <a href="mailto:kutaceldrick880@gmail.com"><img alt="Mailto" src="https://img.shields.io/twitter/url?label=E-mail&logo=gmail&style=social&url=https%3A%2F%2Fram" height="25"></a>
 <a href="https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/" target="_blank" rel="noopener noreferrer"><img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=kuta-ndze&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fram-sah" height="25">
 <a href="https://twitter.com/kutandze" target="_blank" rel="noopener noreferrer"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Find-Me&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com" height="25"></a>
-<a href="https://github.com/kuta-ndze/embeded_factorization/blob/main/Kuta_Resume.pdf" target="_blank" rel="noopener noreferrer"><img alt="Resume URL" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a></p>
+<a href="https://github.com/kuta-ndze/embeded_factorization/blob/main/Celdrick_Data_Science_Resume.pdf" target="_blank" rel="noopener noreferrer"><img alt="Resume" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a></p>
 
 ## COURSES 📚
 
